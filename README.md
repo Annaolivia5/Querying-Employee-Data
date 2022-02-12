@@ -11,6 +11,6 @@
 Tables were designed to hold data in th 6 CSVs, and the the csvs were imported into SQL database.
 
 #### 2 sql files are included; one for data engineering, and one for data analysis.
-* ERD for the sql database tabels:
+ERD for the sql database tabels:
 
 ![ERD](SQL_CALLENGE_ERD.png 'ERD')
